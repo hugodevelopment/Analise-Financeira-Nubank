@@ -22,9 +22,7 @@ Este projeto tem como objetivo **automatizar o processo de extração, transform
 
 - **Visualização**:
   - Dashboard interativo no **Power BI**.
-  - Protótipo de dashboard em **Streamlit** para visualização web.
 
----
 
 ## 🛠️ Tecnologias Utilizadas
 
