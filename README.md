@@ -50,3 +50,6 @@ Este projeto tem como objetivo **automatizar o processo de extração, transform
 - **Concentração de gastos**: descobrir os 5 estabelecimentos que mais impactam no orçamento.
 - **Ticket médio**: entender o valor médio das transações.
 - **Picos semanais**: detectar quais semanas concentram maior volume de gastos.
+
+- <img width="786" height="240" alt="image" src="https://github.com/user-attachments/assets/0c1bc677-ff3f-4b5d-b0bb-f99ebbbef8c8" />
+
