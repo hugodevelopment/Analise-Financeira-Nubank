@@ -9,9 +9,18 @@ Este projeto tem como objetivo **automatizar o processo de extração, transform
 ## 🚀 Funcionalidades
 
 - **ETL completo**:
-  - Extração de dados de faturas em CSV.
-  - Transformação e padronização (tratamento de datas, acréscimo automático de ano, criação de colunas inteligentes).
-  - Carga em arquivos consolidados (`extratos_nubank_final_por_fatura.csv`).
+- Extração de dados de faturas em CSV.
+ 
+  <img width="621" height="170" alt="image" src="https://github.com/user-attachments/assets/d9d17143-c9f1-4279-ad1e-a999dae696c6" />
+
+- Transformação e padronização (tratamento de datas, acréscimo automático de ano, criação de colunas inteligentes).
+
+  <img width="597" height="67" alt="image" src="https://github.com/user-attachments/assets/02051dc9-a614-46e7-8afa-81c6dd80d655" />
+
+- Carga em arquivos consolidados (`extratos_nubank_final_por_fatura.csv`).
+
+  <img width="614" height="37" alt="image" src="https://github.com/user-attachments/assets/da794d6d-5abd-429c-be80-39f052b7a758" />
+
 
 - **Análises implementadas**:
   - Evolução mensal dos gastos.
