@@ -31,6 +31,9 @@ Este projeto tem como objetivo **automatizar o processo de extração, transform
 
 - **Visualização**:
   - Dashboard interativo no **Power BI**.
+ 
+  <img width="1132" height="630" alt="image" src="https://github.com/user-attachments/assets/9086b77e-f223-4b6c-b9f8-5da772b5e780" />
+
 
 
 ## 🛠️ Tecnologias Utilizadas
@@ -60,5 +63,5 @@ Este projeto tem como objetivo **automatizar o processo de extração, transform
 - **Ticket médio**: entender o valor médio das transações.
 - **Picos semanais**: detectar quais semanas concentram maior volume de gastos.
 
-- <img width="786" height="240" alt="image" src="https://github.com/user-attachments/assets/0c1bc677-ff3f-4b5d-b0bb-f99ebbbef8c8" />
+<img width="786" height="240" alt="image" src="https://github.com/user-attachments/assets/0c1bc677-ff3f-4b5d-b0bb-f99ebbbef8c8" />
 
